@@ -1,0 +1,23 @@
+package com.fahri;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+@Path(value="/kullanici")
+public class Merkez {
+	public static void main(String[] args) {
+		
+		System.out.println("Merhaba");
+		
+	}
+	
+	@GET
+	@Path(value="/karsila1")
+	@Produces(MediaType.TEXT_PLAIN)
+	public String karsila(String[] args) {
+		
+		return "Selamlar Restfull";
+	}
+}

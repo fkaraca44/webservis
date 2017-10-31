@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-util.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-catalina-ha/8.0.47/tomcat-catalina-ha-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/ecj-4.6.3.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-annotations-api/8.0.47/tomcat-annotations-api-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-jsp-api/8.0.47/tomcat-jsp-api-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/catalina-ha.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-servlet-api/8.0.47/tomcat-servlet-api-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-util/8.0.47/tomcat-util-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/servlet-api.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-storeconfig/8.0.47/tomcat-storeconfig-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-tribes/8.0.47/tomcat-tribes-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-jni.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/jsp-api.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/websocket-api.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-jasper/8.0.47/tomcat-jasper-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/el-api.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-api.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/catalina-ant.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/jasper-el.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-catalina/8.0.47/tomcat-catalina-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-dbcp/8.0.47/tomcat-dbcp-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-util-scan/8.0.47/tomcat-util-scan-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/annotations-api.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-coyote.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-i18n-es/8.0.47/tomcat-i18n-es-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-coyote/8.0.47/tomcat-coyote-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-juli/8.0.47/tomcat-juli-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/catalina.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-websocket-api/8.0.47/tomcat-websocket-api-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/catalina-tribes.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-jni/8.0.47/tomcat-jni-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-jasper-el/8.0.47/tomcat-jasper-el-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/com/sun/jersey/jersey-servlet/1.19.1/jersey-servlet-1.19.1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jersey-servlet-1.19.1.jar/meta-ýnf/taglib.tld" project="001_RestFulJersey"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/jasper.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-api/8.0.47/tomcat-api-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-i18n-fr/8.0.47/tomcat-i18n-fr-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-jdbc/8.0.47/tomcat-jdbc-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-i18n-ja/8.0.47/tomcat-i18n-ja-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-util-scan.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/eclipse/jdt/ecj/3.12.3/ecj-3.12.3.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-el-api/8.0.47/tomcat-el-api-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-catalina-ant/8.0.47/tomcat-catalina-ant-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/Fahri KARACA/.m2/repository/org/apache/tomcat/tomcat-websocket/8.0.47/tomcat-websocket-8.0.47.jar"/>
+  <path value="C:/Users/Fahri KARACA/Desktop/webservis/apache-tomcat-8.0.47/lib/tomcat-jdbc.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>

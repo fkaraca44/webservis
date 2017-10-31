@@ -1,0 +1,11 @@
+#Tue Oct 31 23:13:35 EET 2017
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1509484415660
+c=0
+cmp=usage
+a=finishWizard
+cl=org.eclipse.epp.internal.logging.aeri.ide.dialogs.SetupWizard
+v=2.2.100
+s=1

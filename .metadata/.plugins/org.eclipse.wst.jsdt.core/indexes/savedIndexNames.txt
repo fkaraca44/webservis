@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Fahri KARACA\Desktop\webservis\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4010725140.index
+2899183869.index
+2973360966.index
+2822391104.index
+1045234560.index
+1233780187.index
+1406728727.index
